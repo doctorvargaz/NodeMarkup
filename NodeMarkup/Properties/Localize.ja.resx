@@ -1262,5 +1262,7 @@ Shiftキーを押して、横断歩道を作成しましょう。</value>
   <data name="Settings_DontCutBorderByCrosswalk" xml:space="preserve">
     <value>横断歩道の基準線に指定したラインは除去しない</value>
   </data>
-  
+  <data name="Template_UnknownAuthor" xml:space="preserve">
+    <value>不明な作成者</value>
+  </data>
 </root>
