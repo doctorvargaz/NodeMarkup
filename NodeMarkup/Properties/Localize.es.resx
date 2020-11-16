@@ -1105,7 +1105,11 @@ Para crear un preajuste, haga clic en «{0}» en la cabecera del panel.</value>
   <data name="Settings_LoadMarkingAssets" xml:space="preserve">
     <value>Cargar recursos de marcas</value>
   </data>
-  
+  <data name="Mod_LoaledWithErrors" xml:space="preserve">
+    <value>Mod cargado con errores.
+No se recomienda utilizar el mod en este estado, ya que puede provocar un comportamiento impredecible.
+Reinicia el juego.</value>
+  </data>
   
   
   
