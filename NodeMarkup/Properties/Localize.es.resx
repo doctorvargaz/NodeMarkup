@@ -1090,11 +1090,21 @@ Para crear un preajuste, haga clic en «{0}» en la cabecera del panel.</value>
   <data name="Preset_NewPreset" xml:space="preserve">
     <value>Nuevo preajuste</value>
   </data>
-  
-  
-  
-  
-  
+  <data name="Tool_EndApplyPresetOrderCaption" xml:space="preserve">
+    <value>Salir del modo de aplicación de preajustes</value>
+  </data>
+  <data name="Tool_EndApplyPresetOrderMessage" xml:space="preserve">
+    <value>¿Quiere aplicar un preajuste?</value>
+  </data>
+  <data name="TemplateEditor_Author" xml:space="preserve">
+    <value>Autor</value>
+  </data>
+  <data name="Settings_ApplyAfterRestart" xml:space="preserve">
+    <value>Se aplica después del reinicio del juego</value>
+  </data>
+  <data name="Settings_LoadMarkingAssets" xml:space="preserve">
+    <value>Cargar recursos de marcas</value>
+  </data>
   
   
   
