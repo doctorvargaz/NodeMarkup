@@ -1257,5 +1257,7 @@ Les préréglages restaurés vont remplacer tout les préréglages existants.</v
   <data name="Settings_DontCutBorderByCrosswalk" xml:space="preserve">
     <value>Ne pas couper les lignes de passages piétons si c'est leur bordure</value>
   </data>
-  
+  <data name="Template_UnknownAuthor" xml:space="preserve">
+    <value>Auteur inconnu</value>
+  </data>
 </root>
