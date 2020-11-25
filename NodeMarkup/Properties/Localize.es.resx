@@ -214,7 +214,7 @@ Mayús x10, Ctrl x0.1</value>
   <data name="Mod_DescriptionBeta" xml:space="preserve">
     <value>¡Esta es una versión BETA, pueden ocurrir errores y no se garantiza la estabilidad!</value>
   </data>
-  <data name="Panel_Caption" xml:space="preserve">
+  <data name="Panel_NodeCaption" xml:space="preserve">
     <value>Editar las marcas del node #{0}</value>
   </data>
   <data name="PointEditor_DeleteCaptionDescription" xml:space="preserve">
@@ -1177,6 +1177,7 @@ Los preajustes restaurados reemplazarán todos los preajustes existentes.</value
   <data name="Mod_Locale_en-gb" xml:space="preserve">
     <value>Inglés Reino Unido</value>
   </data>
+  
   
   
   
