@@ -59,46 +59,46 @@
             : using a System.ComponentModel.TypeConverter
             : and then encoded with base64 encoding.
     -->
-  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"></xsd:import>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
     <xsd:element name="root" msdata:IsDataSet="true">
       <xsd:complexType>
         <xsd:choice maxOccurs="unbounded">
           <xsd:element name="metadata">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0"></xsd:element>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
               </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string"></xsd:attribute>
-              <xsd:attribute name="type" type="xsd:string"></xsd:attribute>
-              <xsd:attribute name="mimetype" type="xsd:string"></xsd:attribute>
-              <xsd:attribute ref="xml:space"></xsd:attribute>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="assembly">
             <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string"></xsd:attribute>
-              <xsd:attribute name="name" type="xsd:string"></xsd:attribute>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="data">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"></xsd:element>
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"></xsd:element>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"></xsd:attribute>
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"></xsd:attribute>
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"></xsd:attribute>
-              <xsd:attribute ref="xml:space"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
             </xsd:complexType>
           </xsd:element>
           <xsd:element name="resheader">
             <xsd:complexType>
               <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"></xsd:element>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
               </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required"></xsd:attribute>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
             </xsd:complexType>
           </xsd:element>
         </xsd:choice>
@@ -214,7 +214,7 @@ Shift X10, Ctrl X0.1</value>
   <data name="Mod_DescriptionBeta" xml:space="preserve">
     <value>This is a BETA version, errors may occur and stability is not guaranteed!</value>
   </data>
-  <data name="Panel_Caption" xml:space="preserve">
+  <data name="Panel_NodeCaption" xml:space="preserve">
     <value>Edit node #{0} markings</value>
   </data>
   <data name="PointEditor_DeleteCaptionDescription" xml:space="preserve">
@@ -1253,16 +1253,16 @@ The restored presets will replace all existing presets.</value>
     <value>English UK</value>
   </data>
   <data name="PresetEditor_RewriteCaption" xml:space="preserve">
-    <value>Overwrite preset asset</value>
+    <value>Rewrite preset asset</value>
   </data>
   <data name="PresetEditor_RewriteMessage" xml:space="preserve">
-    <value>To change its name requires overwriting the asset file. Continue?</value>
+    <value>To change its name requires rewriting the asset file. Continue?</value>
   </data>
   <data name="TemplateEditor_RewriteCaption" xml:space="preserve">
-    <value>Overwrite template asset</value>
+    <value>Rewrite template asset</value>
   </data>
   <data name="TemplateEditor_RewriteMessage" xml:space="preserve">
-    <value>To change its name and values requires overwriting the asset file. Continue?</value>
+    <value>To change its name and values requires rewriting the asset file. Continue?</value>
   </data>
   <data name="CrosswalkEditor_BordersWarning" xml:space="preserve">
     <value>To be able to set the crosswalk borders, you must have lines started from the same points as the crosswalk</value>
@@ -1342,5 +1342,8 @@ Are you sure you want to have multiple presets with the same name?</value>
   </data>
   <data name="Template_UnknownAuthor" xml:space="preserve">
     <value>Unknown author</value>
+  </data>
+  <data name="Panel_SegmentCaption" xml:space="preserve">
+    <value>Edit segment #{0} markings</value>
   </data>
 </root>
