@@ -214,7 +214,7 @@ Shift X10, Ctrl X0.1</value>
   <data name="Mod_DescriptionBeta" xml:space="preserve">
     <value>Isto é uma versão BETA, podem ocorrer erros e não é garantida a estabilidade!</value>
   </data>
-  <data name="Panel_Caption" xml:space="preserve">
+  <data name="Panel_NodeCaption" xml:space="preserve">
     <value>Editar marcações do nó #{0}</value>
   </data>
   <data name="PointEditor_DeleteCaptionDescription" xml:space="preserve">
@@ -1046,6 +1046,7 @@ Quer aplicar as marcações manualmente?</value>
   <data name="MessageBox_CantUndone" xml:space="preserve">
     <value>Esta ação não pode ser desfeita.</value>
   </data>
+  
   
   
   
