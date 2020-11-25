@@ -214,7 +214,7 @@ Shift X10, Ctrl X0,1</value>
   <data name="Mod_DescriptionBeta" xml:space="preserve">
     <value>Tämä on BETA-versio. Virheitä voi esiintyä, eikä vakautta ole taattu!</value>
   </data>
-  <data name="Panel_Caption" xml:space="preserve">
+  <data name="Panel_NodeCaption" xml:space="preserve">
     <value>Muokkaa risteyksen #{0} merkintöjä</value>
   </data>
   <data name="PointEditor_DeleteCaptionDescription" xml:space="preserve">
@@ -1258,4 +1258,5 @@ Haluatko varmasti, että sama nimi on käytössä useammalla esiasetuksella?</va
   <data name="Template_UnknownAuthor" xml:space="preserve">
     <value>Tuntematon tekijä</value>
   </data>
+  
 </root>
