@@ -1000,7 +1000,7 @@ Palautetut mallineet korvaavat kaikki olemassa olevat mallineet.</value>
     <value>Teitä on muutettu</value>
   </data>
   <data name="Tool_RoadsWasChangedMessage" xml:space="preserve">
-    <value>Risteyksen tiet on muutettu. Olemassa olevia merkintöjä ei voitu asettaa automaattisesti.
+    <value>Risteyksen teitä on muutettu. Olemassa olevia merkintöjä ei voitu asettaa automaattisesti.
 Haluatko asettaa merkinnät manuaalisest?</value>
   </data>
   <data name="Tool_EndEditOrderCaption" xml:space="preserve">
