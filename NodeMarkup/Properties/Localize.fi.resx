@@ -1258,7 +1258,13 @@ Haluatko varmasti, että sama nimi on käytössä useammalla esiasetuksella?</va
   <data name="Template_UnknownAuthor" xml:space="preserve">
     <value>Tuntematon tekijä</value>
   </data>
-  
-  
-  
+  <data name="Panel_SegmentCaption" xml:space="preserve">
+    <value>Muokkaa jaokkeen #{0} merkintöjä</value>
+  </data>
+  <data name="FillerStyle_Grass" xml:space="preserve">
+    <value>Ruoho</value>
+  </data>
+  <data name="FillerStyle_Pavement" xml:space="preserve">
+    <value>Päällyste</value>
+  </data>
 </root>
