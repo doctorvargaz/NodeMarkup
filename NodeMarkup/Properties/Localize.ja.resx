@@ -1268,6 +1268,10 @@ Shiftキーを押して、横断歩道を作成しましょう。</value>
   <data name="Panel_SegmentCaption" xml:space="preserve">
     <value>#{0} のセグメントを編集中</value>
   </data>
-  
-  
+  <data name="FillerStyle_Grass" xml:space="preserve">
+    <value>芝生</value>
+  </data>
+  <data name="FillerStyle_Pavement" xml:space="preserve">
+    <value>舗装</value>
+  </data>
 </root>
