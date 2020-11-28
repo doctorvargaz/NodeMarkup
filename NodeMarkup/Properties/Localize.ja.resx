@@ -1268,4 +1268,6 @@ Shiftキーを押して、横断歩道を作成しましょう。</value>
   <data name="Panel_SegmentCaption" xml:space="preserve">
     <value>#{0} のセグメントを編集中</value>
   </data>
+  
+  
 </root>
