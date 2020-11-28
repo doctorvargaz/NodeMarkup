@@ -1308,4 +1308,6 @@ Bist du dir sicher, dass du mehrere Kreuzungsvorlagen mit dem gleichen Namen hab
   <data name="Panel_SegmentCaption" xml:space="preserve">
     <value>Markierungen von Segment #{0} bearbeiten</value>
   </data>
+  
+  
 </root>
