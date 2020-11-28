@@ -1261,6 +1261,10 @@ Shift x10，Ctrl x0.1</value>
   <data name="Panel_SegmentCaption" xml:space="preserve">
     <value>编辑段落 #{0} 的地标线</value>
   </data>
-  
-  
+  <data name="FillerStyle_Grass" xml:space="preserve">
+    <value>草地</value>
+  </data>
+  <data name="FillerStyle_Pavement" xml:space="preserve">
+    <value>铺路石</value>
+  </data>
 </root>
