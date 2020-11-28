@@ -1308,6 +1308,10 @@ Bist du dir sicher, dass du mehrere Kreuzungsvorlagen mit dem gleichen Namen hab
   <data name="Panel_SegmentCaption" xml:space="preserve">
     <value>Markierungen von Segment #{0} bearbeiten</value>
   </data>
-  
-  
+  <data name="FillerStyle_Grass" xml:space="preserve">
+    <value>Gras</value>
+  </data>
+  <data name="FillerStyle_Pavement" xml:space="preserve">
+    <value>Bürgersteig</value>
+  </data>
 </root>
