@@ -1265,6 +1265,6 @@ Shift x10，Ctrl x0.1</value>
     <value>草地</value>
   </data>
   <data name="FillerStyle_Pavement" xml:space="preserve">
-    <value>铺路石</value>
+    <value>路肩</value>
   </data>
 </root>
