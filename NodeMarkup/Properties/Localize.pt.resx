@@ -251,7 +251,7 @@ Shift X10, Ctrl X0.1</value>
     <value>Exportar dados de marcações para um ficheiro</value>
   </data>
   <data name="Settings_CopyPathToClipboard" xml:space="preserve">
-    <value>Copiar caminho para área de transferência</value>
+    <value>Copiar caminho para a área de transferência</value>
   </data>
   <data name="Settings_DumpMarkingCaption" xml:space="preserve">
     <value>Exportar dados das marcações</value>
@@ -580,7 +580,9 @@ Registando-se para o acesso antecipado está a ajudar no desenvolvimento deste m
   <data name="Mod_Locale_de" xml:space="preserve">
     <value>Alemão</value>
   </data>
-  
+  <data name="Mod_Locale_en" xml:space="preserve">
+    <value>Inglês EUA</value>
+  </data>
   <data name="Mod_Locale_es" xml:space="preserve">
     <value>Espanhol</value>
   </data>
@@ -1046,6 +1048,9 @@ Quer aplicar as marcações manualmente?</value>
   <data name="MessageBox_CantUndone" xml:space="preserve">
     <value>Esta ação não pode ser desfeita.</value>
   </data>
+  <data name="LineStyle_Empty" xml:space="preserve">
+    <value>Vazio</value>
+  </data>
   
   
   
@@ -1055,6 +1060,9 @@ Quer aplicar as marcações manualmente?</value>
   
   
   
+  <data name="TemplateEditor_TemplateByAuthor" xml:space="preserve">
+    <value>{0} por {1}</value>
+  </data>
   
   
   
@@ -1064,11 +1072,26 @@ Quer aplicar as marcações manualmente?</value>
   
   
   
+  <data name="TemplateEditor_Author" xml:space="preserve">
+    <value>Autor</value>
+  </data>
   
   
   
   
+  <data name="PresetInfo_Fillers" xml:space="preserve">
+    <value>Preenchimentos:</value>
+  </data>
+  <data name="PresetInfo_Lines" xml:space="preserve">
+    <value>Linhas:</value>
+  </data>
+  <data name="PresetInfo_NoScreenshot" xml:space="preserve">
+    <value>Sem capturas de ecrã</value>
+  </data>
   
+  <data name="PresetInfo_Roads" xml:space="preserve">
+    <value>Estradas:</value>
+  </data>
   
   
   
@@ -1084,6 +1107,9 @@ Quer aplicar as marcações manualmente?</value>
   
   
   
+  <data name="Mod_Locale_en-gb" xml:space="preserve">
+    <value>Inglês RU</value>
+  </data>
   
   
   
@@ -1091,35 +1117,58 @@ Quer aplicar as marcações manualmente?</value>
   
   
   
+  <data name="HeaderPanel_Edit" xml:space="preserve">
+    <value>Editar</value>
+  </data>
+  <data name="HeaderPanel_Save" xml:space="preserve">
+    <value>Guardar alterações</value>
+  </data>
+  <data name="HeaderPanel_NotSave" xml:space="preserve">
+    <value>Descartar alterações</value>
+  </data>
+  <data name="MessageBox_Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="PresetEditor_SaveChangesMessage" xml:space="preserve">
+    <value>Quer guardar as alterações da predefinição?</value>
+  </data>
+  <data name="TemplateEditor_SaveChanges" xml:space="preserve">
+    <value>Guardar alterações</value>
+  </data>
+  <data name="TemplateEditor_SaveChangesMessage" xml:space="preserve">
+    <value>Quer guardar as alterações do modelo?</value>
+  </data>
+  <data name="PresetEditor_NameExistMessage" xml:space="preserve">
+    <value>O nome "{0}" já é utilizado por outra predefinição.
+Tem a certeza que pretende ter várias predefinições com o mesmo nome?</value>
+  </data>
   
   
   
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+  <data name="PresetEditor_DeleteCaptionDescription" xml:space="preserve">
+    <value>predefinição</value>
+  </data>
+  <data name="PresetEditor_DeleteMessageDescription" xml:space="preserve">
+    <value>predefinição</value>
+  </data>
+  
+  <data name="LineEditor_NotSupportRules" xml:space="preserve">
+    <value>Este tipo de linha não suporta regras</value>
+  </data>
+  
+  <data name="Template_UnknownAuthor" xml:space="preserve">
+    <value>Autor desconhecido</value>
+  </data>
+  <data name="Panel_SegmentCaption" xml:space="preserve">
+    <value>Editar marcações do segmento #{0}</value>
+  </data>
+  <data name="FillerStyle_Grass" xml:space="preserve">
+    <value>Relva</value>
+  </data>
+  <data name="FillerStyle_Pavement" xml:space="preserve">
+    <value>Pavimento</value>
+  </data>
 </root>
