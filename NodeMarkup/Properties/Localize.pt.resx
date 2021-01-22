@@ -1144,9 +1144,15 @@ Tem a certeza que pretende ter várias predefinições com o mesmo nome?</value>
   </data>
   
   
-  
-  
-  
+  <data name="PresetEditor_PresetIsAsset" xml:space="preserve">
+    <value>Esta predefinição é um asset.</value>
+  </data>
+  <data name="TemplateEditor_IsAssetWarningMessage" xml:space="preserve">
+    <value>Só pode ser removido através do gestor de conteúdo do jogo.</value>
+  </data>
+  <data name="TemplateEditor_IsWorkshopWarningMessage" xml:space="preserve">
+    <value>Este modelo não pode ser modificado. Só pode ser removido através do gestor de conteúdo do jogo ou cancelar a subscrição no Steam Workshop.</value>
+  </data>
   
   <data name="PresetEditor_DeleteCaptionDescription" xml:space="preserve">
     <value>predefinição</value>
